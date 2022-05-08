@@ -1,3 +1,8 @@
-# Default React
+# Common React things
 
-This repository is mostly for configs
+Contains
+- Components
+- Hooks
+- Containers
+
+And many other
